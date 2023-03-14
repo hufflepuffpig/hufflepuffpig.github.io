@@ -18,5 +18,5 @@
 |--|--|
 |![](./funnysquare/imgs/showimg3.png)|![](./funnysquare/imgs/showimg4.png)|
 
-**Have a Try**
-https://play.google.com/store/apps/details?id=com.hopelin.funnysquare
+**Have a Try**  
+[https://play.google.com/store/apps/details?id=com.hopelin.funnysquare](https://play.google.com/store/apps/details?id=com.hopelin.funnysquare)
